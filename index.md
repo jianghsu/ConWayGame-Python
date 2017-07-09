@@ -1,5 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to ConWayGame (Python)
 
+This is a sample python program to solve Conway's Game of Life ([Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life))
+
+It includes python class, unit test, etc.
+In the program, I use 1 to represent live, 0 to represent dead. 
+
+----------------------------------------
 You can use the [editor on GitHub](https://github.com/jianghsu/ConWayGame-Python/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
