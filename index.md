@@ -2,7 +2,8 @@
 
 This is a sample python program to solve Conway's Game of Life ([Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life))
 
-It includes python class, unit test, etc.
+It includes python class, unit test, etc. using Python 2.
+
 In the program, I use 1 to represent live, 0 to represent dead. 
 
 ----------------------------------------
